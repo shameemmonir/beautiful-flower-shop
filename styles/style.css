@@ -1,0 +1,38 @@
+
+.cover-main{
+    display: flex;
+    background-color: rgb(252, 238, 241);
+}
+.cover-part-one{
+    margin-left: 150px;
+    padding-top: 80px;
+}
+.cover-img{
+    width: 235px;
+    height: 400px;
+    margin-right: 150px;
+    margin-left: 75px;
+}
+.cover-heading{
+    font-size: 30px;
+}
+.btn-shop{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.featured-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.flower-section{
+    display: inline-block;
+}
+.flower-tree{
+    background-color: rgb(252, 238, 241);
+    margin: 5px;
+    width: 300px;
+    /* border-radius: 500px 500px; */
+}
